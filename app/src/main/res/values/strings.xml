@@ -16,4 +16,8 @@
         interested. Sections 1.10.32 and 1.10.33 from \"<i>de Finibus Bonorum et Malorum</i>\" by Cicero are
         also reproduced in their exact original form, accompanied by English versions from the 1914
         translation by H. Rackham.\n\n</string>
+    <string name="lorem_image">Lorem Ipsum</string>
+    <string name="lorem_ipsum">Lorem Ipsum</string>
+    <string name="nickname">What is your nickname?</string>
+    <string name="done">Done \u2713</string>
 </resources>
