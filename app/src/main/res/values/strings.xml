@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Biography</string>
+    <string name="name">Richard McClintock</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Contrary to popular belief, <b>Lorem Ipsum</b> is not simply random text. It has
+        roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.
+        Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one
+        of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through
+        the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum
+        comes from sections 1.10.32 and 1.10.33 of \"<i>de Finibus Bonorum et Malorum</i>\" (The Extremes of
+        Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics,
+        very popular during the Renaissance. The first line of <b>Lorem Ipsum</b>, \"<i>Lorem ipsum dolor sit amet...</i>\",
+        comes from a line in section 1.10.32.
+
+        \n\nThe standard chunk of <b>Lorem Ipsum</b> used since the 1500s is reproduced below for those
+        interested. Sections 1.10.32 and 1.10.33 from \"<i>de Finibus Bonorum et Malorum</i>\" by Cicero are
+        also reproduced in their exact original form, accompanied by English versions from the 1914
+        translation by H. Rackham.\n\n</string>
+</resources>
